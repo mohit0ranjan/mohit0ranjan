@@ -1,5 +1,5 @@
 
-# **👋 Hi, I'm Nidhi Yadav!**  
+# **👋 Hi, I'm Mohit Ranjan!**  
 🎓 **CSE Sophomore at NIT Jalandhar** | 💻 **Frontend Developer** | 🎨 **Tech Enthusiast**  
 
 ### 🚀 **About Me**  
