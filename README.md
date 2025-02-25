@@ -28,7 +28,7 @@
 ---
 
 ### 📫 **Connect with Me**  
-🌍 **Portfolio:** [nidhipofo2.netlify.app](#)  
+
 📧 **Email:** mohitranjan2021@gmail.com  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/mohit-ranjan-123456789](#)
 
